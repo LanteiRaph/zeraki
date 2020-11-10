@@ -7,7 +7,7 @@ public class Main{
 
 
     //Find the mmissing number in and array. 
-    //Get the lenght and (one) and (two) divid the total by two
+    //Get the lenght and (one) and (two) divide the total by two
     //Minus each given number from the total number the result is the missing number 
     public static int missingNumber(int[] arr) {
         //Only proceed if the length is greater than 1
